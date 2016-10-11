@@ -4,9 +4,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        for (String s : args) {
-            //System.out.println(s);
-        }
         String turnsString = new String(args[0]);
         String turnsStringWithoutBrackets = turnsString.substring(1,turnsString.length()-1);
         String[] splitTurnsString = turnsStringWithoutBrackets.split(",");

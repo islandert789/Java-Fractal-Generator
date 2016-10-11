@@ -108,7 +108,6 @@ public class Fractal {
         }
         angle = bestAngle;
         setBounds();
-        System.out.println("Best angle found");
         return this;
     }
 
