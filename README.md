@@ -1,5 +1,5 @@
 # Java-Fractal-Generator
-Generate fractal based on:       
+Generate fractals based on:       
  * base pattern: an array of turns in degrees that form a line.  
     - eg: [90] is a single turn, looks like (L).
  * iteration number: integer value, 0 is initial pattern, 17 is the highest I have ever used
